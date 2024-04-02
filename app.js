@@ -1,6 +1,6 @@
 alert ("Very nice notifications you've here")
 
-alert ("Error! Pleaase enter a valid assword")
+alert ("Error! Pleaase enter a valid Password")
 
 alert ("Welcome to Js Land... \nHappy coding ")
 
